@@ -1,0 +1,5 @@
+../mycode/Servo.c:7:6:Servo_Init	8	static
+../mycode/Servo.c:16:6:ServoX_DUTY_SET	32	static
+../mycode/Servo.c:29:6:ServoY_DUTY_SET	32	static
+../mycode/Servo.c:40:6:setServoAngleY	24	static
+../mycode/Servo.c:49:6:setServoAngleX	24	static

@@ -1,0 +1,4 @@
+../mycode/Encoder.c:7:7:Encoder_Init	1
+../mycode/Encoder.c:19:8:EncoderL_GetSpeed	1
+../mycode/Encoder.c:25:8:EncoderR_GetSpeed	1
+../mycode/Encoder.c:36:7:Encoder_SetZero	1

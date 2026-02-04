@@ -1,0 +1,10 @@
+../mycode/LED.c:7:6:LED1_ON	8	static
+../mycode/LED.c:11:6:LED1_OFF	8	static
+../mycode/LED.c:15:6:LED2_ON	8	static
+../mycode/LED.c:19:6:LED2_OFF	8	static
+../mycode/LED.c:23:6:LED3_ON	8	static
+../mycode/LED.c:27:6:LED3_OFF	8	static
+../mycode/LED.c:31:6:LED4_ON	8	static
+../mycode/LED.c:35:6:LED4_OFF	8	static
+../mycode/LED.c:39:6:XLED_ON	8	static
+../mycode/LED.c:43:6:XLED_OFF	8	static

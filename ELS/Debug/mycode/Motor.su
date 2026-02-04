@@ -1,0 +1,3 @@
+../mycode/Motor.c:3:6:Motor_Init	8	static
+../mycode/Motor.c:16:6:MotorL_SetSpeed	24	static
+../mycode/Motor.c:31:6:MotorR_SetSpeed	24	static
